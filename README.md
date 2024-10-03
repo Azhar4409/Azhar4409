@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **Night Exploit**
+
+- 🌱 I’m currently learning **Laravel**
+
+- 👨‍💻 All of my projects are available at [https://portofolio-psi-fawn.vercel.app/](https://portofolio-psi-fawn.vercel.app/)
+
+- 💬 Ask me about **HTML, CSS, Javascript, C++, Python, Bash**
+
+- 📫 How to reach me **bgazhar71@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/azhar49.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azhar49.py" height="30" width="40" /></a>
