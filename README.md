@@ -1,5 +1,7 @@
+<img align="center" src="https://routerjockey.com/wp-content/uploads/2017/02/Matrix-code-gif.gif">
 <h1 align="center">Hi 👋, I'm Azhar Akmabs</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
+<img align="right" alt="Anonymous" width="400" src="https://gifdb.com/images/file/discord-pfp-mysterious-unknown-hacker-h0pj930j5qjqu5m9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhar4409&label=Profile%20views&color=0e75b6&style=flat" alt="azhar4409" /> </p>
 
