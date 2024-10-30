@@ -1,4 +1,4 @@
-![MasterHead](https://routerjockey.com/wp-content/uploads/2017/02/Matrix-code-gif.gif)
+![logo](https://routerjockey.com/wp-content/uploads/2017/02/Matrix-code-gif.gif)
 <h1 align="center">Hi 👋, I'm Azhar Akmabs</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 <img align="right" alt="Anonymous" width="300" src="https://gifdb.com/images/file/discord-pfp-mysterious-unknown-hacker-h0pj930j5qjqu5m9.gif">
